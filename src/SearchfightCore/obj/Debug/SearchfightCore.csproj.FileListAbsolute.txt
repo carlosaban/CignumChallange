@@ -1,0 +1,5 @@
+C:\Workspace\CIGNUM\CodeChallenge\src\SearchfightCore\bin\Debug\SearchfightCore.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\SearchfightCore\bin\Debug\SearchfightCore.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\SearchfightCore\obj\Debug\SearchfightCore.csproj.CoreCompileInputs.cache
+C:\Workspace\CIGNUM\CodeChallenge\src\SearchfightCore\obj\Debug\SearchfightCore.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\SearchfightCore\obj\Debug\SearchfightCore.pdb

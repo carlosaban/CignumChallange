@@ -1,0 +1,9 @@
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\bin\Debug\MSNSearch.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\bin\Debug\MSNSearch.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\bin\Debug\SearchfightCore.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\bin\Debug\SearchfightCore.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\obj\Debug\MSNSearch.csprojResolveAssemblyReference.cache
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\obj\Debug\MSNSearch.csproj.CoreCompileInputs.cache
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\obj\Debug\MSNSearch.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\MSNSearch\obj\Debug\MSNSearch.pdb

@@ -1,0 +1,16 @@
+C:\tempcar\VSProject\CodeChallenge\src\searchfight\bin\Debug\searchfight.exe.config
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\app.config
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\searchfight.exe.config
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\searchfight.exe
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\searchfight.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\GoogleSearch.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\MSNSearch.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\SearchfightCore.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\GoogleSearch.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\MSNSearch.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\bin\Debug\SearchfightCore.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\obj\Debug\Searchfight.csprojResolveAssemblyReference.cache
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\obj\Debug\Searchfight.csproj.CoreCompileInputs.cache
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\obj\Debug\searchfight.exe
+C:\Workspace\CIGNUM\CodeChallenge\src\searchfight\obj\Debug\searchfight.pdb

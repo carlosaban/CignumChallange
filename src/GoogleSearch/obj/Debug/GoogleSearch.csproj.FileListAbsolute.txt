@@ -1,0 +1,9 @@
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\bin\Debug\GoogleSearch.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\bin\Debug\GoogleSearch.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\bin\Debug\SearchfightCore.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\bin\Debug\SearchfightCore.pdb
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\obj\Debug\GoogleSearch.csprojResolveAssemblyReference.cache
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\obj\Debug\GoogleSearch.csproj.CoreCompileInputs.cache
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\obj\Debug\GoogleSearch.dll
+C:\Workspace\CIGNUM\CodeChallenge\src\GoogleSearch\obj\Debug\GoogleSearch.pdb
